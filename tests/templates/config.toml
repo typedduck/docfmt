@@ -1,0 +1,12 @@
+template = "<path to template>"
+output = "<path to output>"
+force = false
+follow = false
+verbose = false
+strict = false
+include = ["<file to include>", "<path to include>"]
+ext = ["md", "markdown"]
+datafiles = ["<path to json-file>", "<path to toml-file>"]
+
+[data]
+title = "My title"

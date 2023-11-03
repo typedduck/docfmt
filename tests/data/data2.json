@@ -1,0 +1,8 @@
+{
+    "title": "This is another title",
+    "person" : {
+        "firstName" : "Jane",
+        "lastName": null
+    },
+    "cities":[ "colombo" ]
+}
