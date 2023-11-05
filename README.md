@@ -1,5 +1,9 @@
 # Document Formatter
 
+![Build Status](https://img.shields.io/github/actions/workflow/status/typedduck/docfmt/rust.yml)
+[![Crates.io](https://img.shields.io/crates/v/docfmt)](https://crates.io/crates/docfmt)
+[![Crates.io](https://img.shields.io/crates/d/docfmt)](https://crates.io/crates/docfmt)
+
 This is a tool to format documents using a template and data. Multiple data files can be merged. Paths and files can be included and referenced in the template.
 
 The data and input files are passed to the template engine [Handlebars](https://handlebarsjs.com/).
